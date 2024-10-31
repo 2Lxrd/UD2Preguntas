@@ -3,6 +3,8 @@
 ![a](Varios/banner.jpg)
 
 
+1. **Diferencia entre interrupción y excepción** 🚨⚠️:
+
 2. **Diferencia entre software propietario y software comercial** 💻💸:
    - **Software propietario**: Es el software que tiene restricciones en su uso, modificación y distribución. Generalmente, el dueño del software establece estas reglas a través de licencias, y el código fuente no suele estar disponible para el público 👀🚫.
    - **Software comercial**: Es el software creado con la intención de venderse o generar ganancias, pero no necesariamente es propietario. Puede ser propietario o de código abierto (como el software open-source que se comercializa) 💵🌐.
@@ -31,3 +33,9 @@
 9. **Diferencia entre interrupción y excepción** 🚨⚠️:
    - **Interrupción**: Es una señal que indica al procesador que debe pausar su tarea actual para atender una operación externa (como una solicitud de un periférico) ⏸️🔌.
    - **Excepción**: Es una interrupción generada por el procesador en respuesta a un error o evento inesperado dentro de un programa (como una división por cero o una falla de segmentación) 💥🚫.
+
+10. **Diferencia entre interrupción y excepción** 🚨⚠️:
+
+
+## **Licencia Creative Commons** CC:
+   - he escogido esta licencia ya que es la mas restrictiva, y menos huecos deja a nadie para que pueda robar mi trabajo.
