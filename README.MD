@@ -1,6 +1,6 @@
 # Preguntas: Elementos, características, funciones y arquitectura de un SO
 
-![yo](/varios/banner.png)
+![](/Varios/banner.png)
 
 
 1. **Diferencia entre software propietario y software comercial** 💻💸:
