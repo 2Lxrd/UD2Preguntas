@@ -38,7 +38,7 @@
 
 ---
 ```
-**Licencias de Software**
+Licencias de Software
 
 1. Software Libre
    - Licencia GPL (General Public License): Permite usar, modificar y distribuir el software, siempre que se mantenga la misma licencia en las versiones derivadas.
