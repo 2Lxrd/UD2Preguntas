@@ -36,6 +36,33 @@
 
 10. **Diferencia entre interrupción y excepción** 🚨⚠️:
 
+---
+```
+**Licencias de Software**
+
+1. **Software Libre**
+   - **Licencia GPL (General Public License):** Permite usar, modificar y distribuir el software, siempre que se mantenga la misma licencia en las versiones derivadas.
+   - **Licencia LGPL (Lesser General Public License):** Similar a la GPL, pero permite el enlace con bibliotecas de software propietario.
+   - **Licencia Apache:** Permite el uso, modificación y distribución del software, incluso para fines comerciales, siempre que se incluya una copia de la licencia original y el aviso de derechos de autor.
+   - **Licencia MIT:** Muy permisiva, permite casi cualquier uso, incluido el uso comercial y la modificación sin necesidad de mantener la misma licencia.
+   - **Licencia BSD:** Similar a la MIT, permite la modificación y redistribución, incluso para fines comerciales, pero exige reconocimiento al autor original.
+
+2. **Software de Código Abierto**
+   - **Licencia MPL (Mozilla Public License):** Permite el uso, modificación y distribución, pero obliga a compartir cambios bajo la misma licencia si se modifica y distribuye el código fuente.
+   - **Licencia EPL (Eclipse Public License):** Similar a la MPL, permite la modificación y redistribución, pero requiere que las modificaciones se liberen bajo la misma licencia si se distribuyen.
+
+3. **Software Propietario**
+   - **Licencia de Usuario Final (EULA):** Licencia que otorga el derecho de uso del software sin acceso al código fuente y restringe la modificación y redistribución.
+   - **Licencia Shareware:** Permite probar el software por un tiempo o con funcionalidad limitada, luego se requiere un pago para obtener la versión completa.
+   - **Licencia Freeware:** Software gratuito para uso, pero sin acceso al código fuente ni derecho a modificarlo o distribuirlo.
+   - **Licencia OEM (Original Equipment Manufacturer):** Licencia que permite la instalación del software solo en el hardware con el que se vende, como los sistemas operativos preinstalados en equipos.
+
+4. **Software de Dominio Público**
+   - **Licencia CC0 (Creative Commons Zero):** Libera el software en el dominio público, permitiendo cualquier uso, modificación y redistribución sin restricciones.
+   - **Dominio Público:** Software sin ninguna restricción de derechos de autor, de uso libre para cualquier propósito sin condiciones. 
+```
+--- 
+
 
 ## **Licencia Creative Commons** CC:
    - he escogido esta licencia ya que es la mas restrictiva, y menos huecos deja a nadie para que pueda robar mi trabajo.
