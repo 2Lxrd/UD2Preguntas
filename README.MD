@@ -1,5 +1,8 @@
 # Preguntas: Elementos, características, funciones y arquitectura de un SO
 
+![yo](/varios/banner.png)
+
+
 1. **Diferencia entre software propietario y software comercial** 💻💸:
    - **Software propietario**: Es el software que tiene restricciones en su uso, modificación y distribución. Generalmente, el dueño del software establece estas reglas a través de licencias, y el código fuente no suele estar disponible para el público 👀🚫.
    - **Software comercial**: Es el software creado con la intención de venderse o generar ganancias, pero no necesariamente es propietario. Puede ser propietario o de código abierto (como el software open-source que se comercializa) 💵🌐.
