@@ -28,5 +28,3 @@
 8. **Diferencia entre interrupción y excepción** 🚨⚠️:
    - **Interrupción**: Es una señal que indica al procesador que debe pausar su tarea actual para atender una operación externa (como una solicitud de un periférico) ⏸️🔌.
    - **Excepción**: Es una interrupción generada por el procesador en respuesta a un error o evento inesperado dentro de un programa (como una división por cero o una falla de segmentación) 💥🚫.
-
-Si tienes alguna otra duda sobre estos temas, ¡aquí estoy para ayudarte! 😊
